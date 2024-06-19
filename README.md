@@ -7,7 +7,7 @@
 <br>
 
 # 💫 About Me
-🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>🎓 Upcoming freshman at University of the Philippines - Baguio<br>🏫 Studied at Angeles City Science High School<br>📖 Currently learning: Quantum Physics and Quantum Machine Learning<br>🌷 Hobbies: Robotics, solving math problems, gaming, and customizing everything ✨!!
+🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>🎓 Studied at University of the Philippines<br>🏫 Studied at Angeles City Science High School<br>📖 Currently learning: Quantum Physics and Quantum Machine Learning<br>🌷 Hobbies: Robotics, solving math problems, gaming, and customizing everything ✨!!
 
 <!-- ## Socials -->
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paulgerald.pare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulg.pare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulgeraldpare)  -->
