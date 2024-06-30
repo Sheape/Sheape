@@ -1,23 +1,29 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I'm
-                <b><a target="_blank"
-        href="https://paulpare.com/">Paul</a> 👋!</b>
+                <b>Paul 👋!</b>
         </samp>
 </h3>
 <br>
 
 # 💫 About Me
-🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>🎓 Studying at University of the Philippines<br>🏫 Studied at Angeles City Science High School<br>📖 Currently learning: Quantum Physics and Quantum Machine Learning<br>🌷 Hobbies: Robotics, solving math problems, gaming, and customizing everything ✨!!
+🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>
+🧑‍💼 AI/Machine Learning Engineer at <a target="_blank" href="https://dogy.app/">Dogy App</a><br>
+📖 Currently learning: Quantum Physics and Quantum Machine Learning<br>
+⚛️ Currently: The Lead developer and mentor of a Quantum Machine Learning Research (approved and funded by DOST-ASTI)<br>
+🏆 Currently participating on: International Agile Loop Hackathon<br>
+🎓 Upcoming freshman at University of the Philippines<br>
+🏫 Studied at Angeles City Science High School<br>
+🌷 Hobbies: Robotics, solving math problems, gaming, and customizing everything ✨!!<br>
 
 <!-- ## Socials -->
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paulgerald.pare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulg.pare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulgeraldpare)  -->
 
 # 💻 Tech Stack
 ### Languages
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
