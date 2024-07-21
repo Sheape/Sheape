@@ -9,8 +9,7 @@
 🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>
 🧑‍💼 AI/Machine Learning Engineer at <a target="_blank" href="https://dogy.app/">Dogy App</a><br>
 📖 Currently learning: Quantum Physics and Quantum Machine Learning<br>
-⚛️ Currently: The Lead developer and mentor of a Quantum Machine Learning Research (approved and funded by DOST-ASTI)<br>
-🏆 Currently participating on: International Agile Loop Hackathon<br>
+⚛️ Currently: The Lead developer of a Quantum Machine Learning Research (approved and funded by DOST-ASTI)<br>
 🎓 Upcoming freshman at University of the Philippines<br>
 🏫 Studied at Angeles City Science High School<br>
 🌷 Hobbies: Robotics, solving math problems, gaming, and customizing everything ✨!!<br>
