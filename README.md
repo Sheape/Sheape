@@ -58,6 +58,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ___
-![](https://github-readme-stats.vercel.app/api?username=Sheape&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheape&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sheape.vercel.app/api?username=Sheape&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-sheape.vercel.app/api/top-langs/?username=Sheape&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sheape&theme=catppuccin_mocha&hide_border=true)<br/>
