@@ -8,7 +8,7 @@
 # 💫 About Me
 🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>
 🧑‍💼 Rust Backend Engineer at <a target="_blank" href="https://dogy.app/">Dogy App</a><br>
-📖 Currently learning: Data structures and Algorithm<br>
+📖 Currently learning: Graph Theory<br>
 🎓 Freshman at University of the Philippines<br>
 🌷 Hobbies: Robotics, solving math problems, gaming, and customizing everything ✨!!<br>
 
