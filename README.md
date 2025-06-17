@@ -8,9 +8,9 @@
 # 💫 About Me
 🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>
 🧑‍💼 Rust Backend Engineer at <a target="_blank" href="https://dogy.app/">Dogy App</a><br>
-📖 Currently learning: Abstract Syntax Tree<br>
+📖 Currently learning: Assembly x86<br>
 🎓 Freshman at University of the Philippines<br>
-🌷 Hobbies: Robotics, solving math problems, gaming, and customizing everything ✨!!<br>
+🌷 Hobbies: Robotics, solving math problems, and customizing everything ✨!!<br>
 
 <!-- ## Socials -->
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paulgerald.pare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulg.pare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulgeraldpare)  -->
