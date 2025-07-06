@@ -7,7 +7,7 @@
 
 # 💫 About Me
 🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>
-📖 Currently learning: Assembly x86<br>
+📖 Currently learning: Registry-based VM<br>
 🎓 Freshman at University of the Philippines<br>
 🌷 Hobbies: Robotics, solving math problems, and customizing everything ✨!!<br>
 
