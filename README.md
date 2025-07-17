@@ -6,10 +6,9 @@
 <br>
 
 # 💫 About Me
-🧑‍💻 I'm an aspiring software engineer who promotes free and open-source software.<br>
 📖 Currently learning: Bytecode Generation<br>
 🎓 Freshman at University of the Philippines<br>
-🌷 Hobbies: Robotics, solving math problems, and customizing everything ✨!!<br>
+🌷 Hobbies: **Rust** 🦀, solving math problems, and customizing everything ✨!!<br>
 
 # 💻 Tech Stack
 ### Languages
