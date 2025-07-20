@@ -6,7 +6,7 @@
 <br>
 
 # 💫 About Me
-📖 Currently learning: Bytecode Generation<br>
+📖 Currently learning: Data Structures and Algorithm<br>
 🎓 Freshman at University of the Philippines<br>
 🌷 Hobbies: **Rust** 🦀, solving math problems, and customizing everything ✨!!<br>
 
