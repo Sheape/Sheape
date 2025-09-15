@@ -6,7 +6,7 @@
 <br>
 
 # 💫 About Me
-📖 Currently learning: Assembly x86 SIMD Instructions<br>
+📖 Currently learning: Posit Floats<br>
 🎓 Sophomore at University of the Philippines<br>
 🌷 Hobbies: **Rust** 🦀, solving math problems, and customizing everything ✨!!<br>
 
