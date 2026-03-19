@@ -7,7 +7,6 @@
 
 # 💫 About Me
 📖 Currently learning: Posit Floats<br>
-🎓 Sophomore at University of the Philippines<br>
 🌷 Hobbies: **Rust** 🦀, solving math problems, and customizing everything ✨!!<br>
 
 # 💻 Tech Stack
